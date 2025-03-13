@@ -18,7 +18,9 @@ Pong Battle Royale
 Watch on youtube https://www.youtube.com/watch?v=9ulc8cxeRns
 
 
+Some of my Vfx animations
 
+![vfx gif](https://github.com/user-attachments/assets/039864d9-ce18-4b8e-9c8a-99c5611df902)
 
 
 
