@@ -4,10 +4,11 @@ Hi! 👋 I'm Onur Ongur
 I'm an Game developer and 3D Artist 🎮 Working on Unity & Blender Some of my projects
 
 🕹️ Projects
-Pong Battle Royale
+Pong Battle Royale  
 
-![GIF Açıklaması](assets/animation.gif)
-![GIF Açıklaması](https://raw.githubusercontent.com/KULLANICI_ADI/REPO_ADI/main/assets/animation.gif)
+![My First Game ](assets/animation.gif)
+![Pong Battle Royale](https://github.com/user-attachments/assets/5d29cbed-9675-497c-a4a9-ed97e02a08ba)
+
 ![GIF Açıklaması](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
 🛠️ Languages and Tools:
