@@ -1,5 +1,17 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/a82fd0c3-01a7-4eda-abf6-600896142eb7)## Hi there 👋
 
+Hi! 👋 I'm Onur Ongur
+I'm an Game developer and 3D Artist 🎮 Working on Unity & Blender Some of my projects
+
+🕹️ Projects
+Pong Battle Royale
+
+
+🛠️ Languages and Tools:
+🎮 Unity, C#,C++,C,R,java,java script,python
+🎨 Blender, 3D Modelleme
+🖥️ GitHub, Git
+📩 LinkedIn
 <!--
 **Onur-Ongur/Onur-Ongur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
