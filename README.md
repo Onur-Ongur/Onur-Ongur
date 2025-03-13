@@ -6,6 +6,9 @@ I'm an Game developer and 3D Artist 🎮 Working on Unity & Blender Some of my p
 🕹️ Projects
 Pong Battle Royale
 
+![GIF Açıklaması](assets/animation.gif)
+![GIF Açıklaması](https://raw.githubusercontent.com/KULLANICI_ADI/REPO_ADI/main/assets/animation.gif)
+![GIF Açıklaması](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
 🛠️ Languages and Tools:
 🎮 Unity, C#,C++,C,R,java,java script,python
