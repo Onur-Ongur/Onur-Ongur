@@ -1,7 +1,7 @@
 
 
 Hi!  I'm Onur 
-I'm an Game developer and 3D Artist 🎮 Working on Unity & Blender Some of my projects
+I'm a Game developer and 3D Artist 🎮 Working on Unity & Blender Some of my projects
 
 
 
