@@ -9,7 +9,7 @@ Pong Battle Royale
 ![My First Game ](assets/animation.gif)
 ![Pong Battle Royale](https://github.com/user-attachments/assets/5d29cbed-9675-497c-a4a9-ed97e02a08ba)
 
-![GIF Açıklaması](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
 
 🛠️ Languages and Tools:
 🎮 Unity, C#,C++,C,R,java,java script,python
