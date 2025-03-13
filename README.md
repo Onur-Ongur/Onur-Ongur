@@ -13,9 +13,11 @@ Pong Battle Royale
 
 🛠️ Languages and Tools:
 🎮 Unity, C#,C++,C,R,java,java script,python
+
 🎨 Blender, 3D Modelleme
+
 🖥️ GitHub, Git
-📩 LinkedIn
+
 <!--
 **Onur-Ongur/Onur-Ongur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
