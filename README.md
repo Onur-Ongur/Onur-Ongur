@@ -1,6 +1,6 @@
 
 
-Hi! 👋 I'm Onur Ongur
+Hi!  I'm Onur 
 I'm an Game developer and 3D Artist 🎮 Working on Unity & Blender Some of my projects
 
 
