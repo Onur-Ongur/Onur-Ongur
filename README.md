@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a82fd0c3-01a7-4eda-abf6-600896142eb7)## Hi there 👋
+
 
 Hi! 👋 I'm Onur Ongur
 I'm an Game developer and 3D Artist 🎮 Working on Unity & Blender Some of my projects
