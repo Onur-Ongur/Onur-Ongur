@@ -28,7 +28,7 @@ Some of my Vfx animations
 🛠️ Languages and Tools:
 🎮 Unity, C#,C++,C,R,java,java script,python
 
-🎨 Blender, 3D Modelleme
+🎨 Blender, 3D Modelling
 
  Artstation https://www.artstation.com/onur-ongur
 
