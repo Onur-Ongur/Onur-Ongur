@@ -19,7 +19,8 @@ Pong Battle Royale
 
 
 
-![Apple Collector](https://github.com/user-attachments/assets/1ff0bc9c-df54-4451-a879-eee9b33b7331)
+![Apple Collector](https://github.com/user-attachments/assets/241a88cc-c853-49e5-bb7e-7a7becca9d73)
+
 
 
 
