@@ -18,7 +18,7 @@ Pong Battle Royale
 [Watch on YouTube](https://www.youtube.com/watch?v=9ulc8cxeRns)
 
 
-![Apple Collecting Game]https://github.com/user-attachments/assets/a0f3ad73-df1d-4811-838d-8a8fb770c62b
+![Apple Collecting Game].(https://github.com/user-attachments/assets/a0f3ad73-df1d-4811-838d-8a8fb770c62b)
 
 [Watch on Youtube](https://www.youtube.com/watch?v=33L8Gt5PbY4)
 
