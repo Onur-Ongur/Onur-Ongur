@@ -21,12 +21,8 @@ Pong Battle Royale
 
 ![Apple Collector].(https://github.com/user-attachments/assets/c02a7f78-b74a-49b5-95a2-3d2615006d76)
 
-
-
-
-
-
 [Watch on Youtube](https://www.youtube.com/watch?v=33L8Gt5PbY4)
+
 
 Some of my Vfx animations
 
