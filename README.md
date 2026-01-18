@@ -6,6 +6,18 @@ I'm a Game developer and 3D Artist 🎮 Working on Unity & Blender
 Some of my projects
 
 
+Zombie Killing 
+
+![Bitten](https://github.com/user-attachments/assets/a945567c-5b92-49c6-9bf6-b037fd6aa087)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=Y4TeX0AhP88)
+
+
+Simple Math Games
+
+![Simple Math Games](https://github.com/user-attachments/assets/a28e815c-60f2-47a2-b1bf-ff327bc72b97)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=c-7OgStXejs)
 
 
 🕹️ Projects
