@@ -53,7 +53,7 @@ Some of my Vfx animations
 
 
 🛠️ Languages and Tools:
-🎮 Unity, C#,C++,C,R,java,java script,python
+🎮 Unity, C#,C++,C,R,java,javaScript,python
 
 🎨 Blender, 3D Modelling
 
